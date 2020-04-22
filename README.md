@@ -1,1 +1,1 @@
-# computer-programming
+# Computer Programming
